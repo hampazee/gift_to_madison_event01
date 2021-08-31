@@ -1,0 +1,2 @@
+rootProject.name = "add_event03"
+include ':app'
